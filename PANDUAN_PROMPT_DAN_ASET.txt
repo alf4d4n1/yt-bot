@@ -1,0 +1,121 @@
+================================================================================
+PANDUAN LENGKAP PROMPT AI, ASET & SEO MATRIX
+================================================================================
+
+[ 1. PROMPT GENERATOR GAMBAR (VISUAL AI) ]
+Rekomendasi Tool: Midjourney v6 / Flux.1 Schnell / Bing Image Creator (DALL-E 3)
+Aspek Rasio: 16:9 (Landscape 1920x1080)
+Negative Prompt (Wajib hindari): blurry, distorted text, bad anatomy, deformed cups, low resolution, watermark, oversaturated colors.
+
+A. Formula 1: Acoustic Warm Piano & Soft Rain
+Prompt:
+"cozy vintage study room near a large glass bay window, heavy gentle rain droplets streaking down the window pane outside, soft warm glowing banker desk lamp on a dark mahogany wooden table, open classic novel with handwritten notes, ceramic mug of warm chamomile tea with subtle steam rising, rainy day atmosphere, atmospheric bokeh, hyperrealistic 8k, cinematic photography, warm and peaceful color grading, photorealistic textures --ar 16:9 --v 6.0"
+
+B. Formula 2: Sunny Morning Bossa Nova & Cafe
+Prompt:
+"bright sunlit rustic kitchen cafe nook in the early morning, golden sunlight streaming through wooden venetian blinds casting soft striped shadows, fresh ceramic cup of cappuccino with delicate leaf latte art on a light oak table, small green potted succulents, a freshly baked flaky croissant on a white ceramic plate, clean minimalist aesthetic interior, bright and uplifting morning vibes, 8k photographic quality, natural soft lighting --ar 16:9 --v 6.0"
+
+C. Formula 3: Lofi Chillhop Midnight Room
+Prompt:
+"aesthetic cozy modern bedroom desk at midnight, dual monitor workstation with clean minimalist workspace, subtle warm amber and soft purple desk ambient backlighting, wide window looking out into a misty rainy city with quiet neon bokeh lights, cup of iced matcha latte, mechanical keyboard with soft glow, lofi anime aesthetic mixed with hyperrealistic cinematic lighting, cozy study sanctuary --ar 16:9 --v 6.0"
+
+D. Formula 4: Dark Academia Victorian Library
+Prompt:
+"grand old victorian library hall at dusk, towering dark oak bookshelves filled with leather-bound vintage books, tall gothic arched stained-glass windows with soft misty rain outside, green bankers lamp glowing softly on a long wooden study desk, open leather journal with an antique fountain pen, burning white candle in brass holder, quiet intellectual atmosphere, rich moody shadows, 8k cinematic --ar 16:9 --v 6.0"
+
+E. Formula 5: Peaceful Guitar Forest Cabin
+Prompt:
+"cozy wooden cabin porch overlooking a tranquil pine forest and crystal clear babbling creek, soft afternoon sun rays piercing through autumn leaves, rustic wooden rocking chair, ceramic coffee mug on the wooden railing, peaceful wild nature scenery, gentle breeze feeling, high detail realistic photography, atmospheric depth --ar 16:9 --v 6.0"
+
+--------------------------------------------------------------------------------
+
+[ 2. PROMPT GENERATOR AUDIO (SUNO AI & UDIO) ]
+Mode: Wajib aktifkan toggle "Instrumental" (No Vocals)
+Panjang ideal per generate: 2 - 3 menit (nanti di-loop oleh bot).
+
+A. Prompt Piano Hujan (Formula 1):
+Style / Prompt:
+"gentle acoustic grand piano solo, tempo 65 bpm, key D minor to F major, melancholic yet deeply soothing, emotional warmth, peaceful melody, soft touch hammer keys, spacious warm hall reverb, calm tranquil background music for studying and sleep, no vocals, no drums"
+
+B. Prompt Bossa Nova Pagi (Formula 2):
+Style / Prompt:
+"upbeat acoustic bossa nova, nylon string acoustic guitar fingerpicking, soft brush snare drums, gentle upright jazz double bass, melodic acoustic piano accents, warm cafe vibes, cheerful positive morning mood, 85 bpm, sunny weekend relaxing feeling, high fidelity, no vocals"
+
+C. Prompt Lofi Chillhop (Formula 3):
+Style / Prompt:
+"lofi chillhop instrumental, mellow fender rhodes keyboard chords, subtle dusty vinyl crackle and tape saturation, relaxed boom-bap hiphop drum groove, warm sub-bass, nostalgic jazzy saxophone riffs in distance, late night study beat, 75 bpm, cozy relaxing vibe, no vocals"
+
+D. Prompt Dark Academia Strings (Formula 4):
+Style / Prompt:
+"classical chamber music, solo cello accompanied by gentle piano, melancholic baroque chord progression, slow 58 bpm, emotional intellectual focus, rich acoustic strings, cinematic atmosphere, no percussion, no vocals"
+
+--------------------------------------------------------------------------------
+
+[ 3. DIREKTORI & SUMBER ASET LOKAL (UNTUK ENGINE BOT) ]
+Struktur folder di dalam D:\ALL BOTT\YT-bot-main\:
+
+YT-bot-main/
+  ├── assets/
+  │    ├── backgrounds/    -> Simpan gambar AI 1920x1080 (.jpg/.png)
+  │    ├── music/          -> Simpan file musik instrumental (.mp3/.wav)
+  │    ├── ambience/       -> Suara hujan, perapian, kedai kopi (.mp3/.wav)
+  │    └── overlays/       -> Efek overlay asap kopi, rintik hujan (.mp4 transparan)
+  ├── output/              -> Hasil render video final MP4 (1 Jam) siap upload
+  └── scripts/             -> Script python & tools otomatisasi
+
+Sumber Sound Ambience Gratis & 100% Legal:
+1. Freesound.org:
+   - Search: "rain gentle interior window", "fireplace burning crackle", "cafe chatter murmur distance", "forest stream water".
+2. Pixabay.com/sound-effects:
+   - Filter: Nature, Ambient, Foley (Lisensi bebas royalti selamanya).
+3. YouTube Audio Library (Bawaan YouTube Studio):
+   - Masuk ke studio.youtube.com -> Audio Library -> Sound Effects (100% aman anti klaim hak cipta).
+
+--------------------------------------------------------------------------------
+
+[ 4. TEMPLATE PROMPT AI (9ROUTER) UNTUK GENERATE SEO OTOMATIS ]
+Saat bot dijalankan, kirimkan prompt ini ke API 9router untuk mendapatkan metadata video instan:
+
+```
+Role: YouTube SEO Master specializing in Long-form Relaxing Music Channels.
+Input Theme: [Misal: Acoustic Warm Piano & Soft Rain]
+Duration: 1 Hour (60 Minutes)
+
+Generate the following in JSON format:
+1. "title": 1 high-CTR YouTube title (max 85 chars, including emojis, clickbait yet honest).
+2. "description": Engaging description with:
+   - Hook paragraph (empathy for students/workers).
+   - Tracklist with 8 timestamps (00:00 to 52:00) with cozy names.
+   - Call to action (Like & Subscribe).
+   - 5 relevant hashtags.
+3. "tags": 25 highly searched comma-separated YouTube tags.
+```
+
+Contoh Output Siap Pakai:
+Judul:
+"Soft Piano & Gentle Rain 🌧️ 1 Hour Relaxing Music for Deep Focus, Studying & Peaceful Sleep"
+
+Deskripsi:
+"Welcome to [Channel Name] ☕✨
+Your quiet sanctuary to focus, study, read, and find inner peace.
+
+Let the warm acoustic piano melodies and gentle window rain wash away your daily stress. Designed specifically for deep study sessions, coding marathons, quiet reading, or drifting off into restorative sleep.
+
+🎧 Tracklist & Chapters:
+00:00 - Track 1: First Raindrop on Glass
+07:45 - Track 2: Warm Blanket & Warm Tea
+15:20 - Track 3: Whispers of the Old Library
+23:10 - Track 4: Solitude in the Afternoon
+31:05 - Track 5: Drifting Thoughts
+39:40 - Track 6: Quiet Hearthside Melody
+47:15 - Track 7: Midnight Reverie
+54:50 - Track 8: Slumber Beneath the Rain
+
+🌿 Tip: Best enjoyed with headphones at 40-60% volume.
+🔔 If this session helped you find calm today, subscribe to join our cozy community!
+
+#SoftPiano #RainAmbience #DeepFocus #StudyMusic #StressRelief #RelaxingMusic"
+
+Tags:
+soft piano music, relaxing piano rain, study music 1 hour, music for deep focus, stress relief music, peaceful piano, rain on window sounds, background music for work, sleep piano rain, dark academia piano, cozy rainy day, calm instrumental, no copyright study music.
+================================================================================

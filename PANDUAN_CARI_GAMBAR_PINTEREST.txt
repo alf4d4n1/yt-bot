@@ -1,0 +1,86 @@
+================================================================================
+PANDUAN LENGKAP & KATA KUNCI CARI GAMBAR ESTETIK DI PINTEREST
+Untuk Koleksi Bank Visual Bot YouTube (YT-bot-main)
+================================================================================
+
+Target: Menyiapkan 10 - 20 Gambar Full HD 1080p Estetik Pilihan Anda Sendiri.
+Penyimpanan: Simpan semua gambar di folder -> D:\ALL BOTT\YT-bot-main\assets\backgrounds\
+
+--------------------------------------------------------------------------------
+ATURAN EMAS MEMILIH GAMBAR DI PINTEREST:
+--------------------------------------------------------------------------------
+1. WAJIB LANDSCAPE (16:9 / Melebar):
+   - Jangan ambil format potret (HP/TikTok/Story).
+   - Minimal resolusi 1920x1080 (Full HD).
+2. KOMPOSISI NATURAL (Ada Ruang Bernafas):
+   - Jangan ambil foto cangkir yang terlalu rapat/zoom raksasa menutupi seluruh layar.
+   - Pilih yang ada meja, cangkir, dan jendela / ruangan di sekitarnya.
+3. BEBAS TEKS & WATERMARK:
+   - Pilih gambar yang bersih tanpa tulisan promosi atau watermark kreator lain.
+4. CARA DOWNLOAD KUALITAS TINGGI DI PINTEREST:
+   - Klik gambarnya sampai terbuka besar -> klik kanan -> "Open image in new tab".
+   - Jika link-nya mengandung '/236x/' atau '/474x/', ubah di address bar menjadi '/originals/' 
+     agar mendapatkan file resolusi aslinya yang paling tajam!
+
+================================================================================
+KATA KUNCI PENCARIAN (KEYWORDS) SESUAI 5 FORMULA KONTEN:
+================================================================================
+
+[TEMA 1] PIANO & RAIN / COZY CAFE AMBIENCE
+Karakter: Cafe hangat temaram, cangkir kopi di meja kayu, jendela berhujan.
+Efek Bot: Golden Dust Particles atau Rain Drops.
+Kata Kunci Pinterest:
+• aesthetic cafe window rain 1920x1080 wallpaper
+• lofi coffee cup wooden table rain aesthetic
+• rainy window bokeh lights aesthetic wallpaper hd
+• cozy coffee shop rain window aesthetic 4k
+
+[TEMA 2] SUNNY MORNING BOSSA NOVA & BREAKFAST
+Karakter: Meja sarapan pagi cerah, vas bunga tulip/matahari, croissant, sinar mentari.
+Efek Bot: Morning Sunlight Beam (Sinar Matahari) atau Steam (Asap Kopi).
+Kata Kunci Pinterest:
+• sunny morning breakfast table aesthetic 1920x1080
+• cozy morning cafe sunlight window wallpaper
+• aesthetic french breakfast table sunlight hd
+• warm morning kitchen table coffee flowers aesthetic
+
+[TEMA 3] LOFI CHILLHOP & COZY MIDNIGHT ROOM
+Karakter: Kamar tidur/meja belajar malam hari, lampu tidur redup, pemandangan kota malam.
+Efek Bot: Golden Dust Particles atau Soft Snow Falling.
+Kata Kunci Pinterest:
+• lofi study room night window city view wallpaper 1920x1080
+• cozy anime bedroom night lights aesthetic hd
+• warm dark aesthetic room desk night wallpaper
+• cozy bedroom rain window night aesthetic
+
+[TEMA 4] DARK ACADEMIA & VICTORIAN LIBRARY
+Karakter: Perpustakaan kayu tua, tumpukan buku tebal, lilin, perapian batu hangat.
+Efek Bot: Cozy Fireplace Embers (Percikan Bara Api) atau Golden Dust.
+Kata Kunci Pinterest:
+• dark academia library fireplace aesthetic wallpaper 1920x1080
+• vintage library desk books candle warm lighting
+• cozy study room fireplace aesthetic hd
+• old wooden library books desk aesthetic wallpaper
+
+[TEMA 5] ACOUSTIC GUITAR & NATURE CABIN / FOREST
+Karakter: Beranda kabin kayu di hutan pinus, pemandangan danau/pepohonan sejuk.
+Efek Bot: Morning Sunlight Beam atau Golden Dust Particles.
+Kata Kunci Pinterest:
+• cozy wooden cabin porch forest nature wallpaper 1920x1080
+• nature wooden cabin window view aesthetic hd
+• forest cottage lake view peaceful morning wallpaper
+• cozy cabin balcony forest mountain view aesthetic
+
+================================================================================
+DAFTAR EFEK GERAK (OVERLAY) YANG SUDAH TERSEDIA DI BOT:
+================================================================================
+1. overlay_golden_dust.mp4     -> Partikel debu emas & warm bokeh melayang lembut
+2. overlay_sunlight_beam.mp4   -> Sinar matahari pagi menembus jendela (Light Rays)
+3. overlay_embers_sparks.mp4   -> Percikan bara api hangat melayang (Tema Fireplace)
+4. overlay_snow_falling.mp4    -> Rintik salju lembut jatuh perlahan (Tema Winter/Lofi)
+5. overlay_steam.mp4           -> Kepulan uap panas lembut di atas cangkir
+6. pure_rain_overlay.mp4       -> Rintik air hujan transparan
+
+Semua efek di atas sudah terpasang sistem Blending GBRP murni + Watermark transparan 
+di pojok kanan bawah secara otomatis tanpa distorsi warna!
+================================================================================

@@ -1,0 +1,892 @@
+# 📜 VOID ARCHIVE — Master Topic List & Upload Schedule
+# Target Audience: US/Global (English)
+# Format: Shorts (60-90s) + Long-form (8-15min)
+# Strategi: 1 Short/hari, 1 Long-form/minggu
+# Last updated: 23 Oktober 2026
+
+═══════════════════════════════════════════════════════════════
+  PANDUAN FOTO PER VIDEO
+═══════════════════════════════════════════════════════════════
+
+  Shorts (60-90 detik):
+  - Butuh 8-12 foto/gambar
+  - Mix: 5-7 foto sejarah asli + 3-5 AI-generated
+  - Sumber: Wikipedia Commons, Library of Congress,
+    National Archives, archive.org, Unsplash (historical)
+
+  Long-form (8-15 menit):
+  - Butuh 25-40 foto/gambar
+  - Mix: 15-25 foto asli + 10-15 AI art
+  - Bonus: peta, dokumen asli, sketsa, poster propaganda
+
+  Tips foto:
+  - Resolusi minimal 1080px width (crop ke 1080x1920 portrait)
+  - Foto hitam putih = drama tinggi, viewer suka
+  - Close-up wajah tokoh = emotional connection
+  - Peta/diagram = credibility boost
+  - "Before vs After" = engagement tinggi
+
+═══════════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 1 — ANCIENT EMPIRES & MYSTERIES
+═══════════════════════════════════════════════════════════════
+
+DAY 1 (Senin) — SHORT
+📌 Topik: "The Roman Army's Most Brutal Punishment — Decimation"
+📝 Angle: 1 dari 10 tentara dipilih acak, dibunuh oleh 9 rekannya sendiri
+🔥 Hook: "The Roman army punished cowards by making soldiers kill their own friends."
+📸 Foto dibutuhkan: 10
+   - 2x Roman soldiers/legionnaires (statues, reliefs, reenactments)
+   - 2x Roman military formations
+   - 1x Roman punishment/execution scene (artwork/painting)
+   - 1x Map of Roman Empire
+   - 1x Roman centurion close-up
+   - 3x AI-generated (dramatic scene: soldiers drawing lots, execution moment)
+📂 Folder: day01_roman_decimation/
+
+DAY 2 (Selasa) — SHORT
+📌 Topik: "Cleopatra Lived Closer to the Moon Landing Than to the Pyramids"
+📝 Angle: Mind-blowing timeline perspective
+🔥 Hook: "Cleopatra lived closer in time to the iPhone than to the Great Pyramid."
+📸 Foto dibutuhkan: 10
+   - 2x Cleopatra (paintings, busts, coins)
+   - 2x Great Pyramids of Giza (old photos + current)
+   - 1x Moon landing (NASA archive)
+   - 1x iPhone launch 2007
+   - 1x Timeline/infographic
+   - 3x AI-generated (Cleopatra in her era, pyramid construction)
+📂 Folder: day02_cleopatra_timeline/
+
+DAY 3 (Rabu) — SHORT
+📌 Topik: "The Dancing Plague of 1518 — When Hundreds Danced to Death"
+📝 Angle: Mysterious mass hysteria — 400 people danced non-stop, some died
+🔥 Hook: "In 1518, a woman started dancing in the street. Within a month, 400 people joined. Some of them danced until they died."
+📸 Foto dibutuhkan: 10
+   - 2x Medieval Strasbourg (old engravings/paintings)
+   - 2x Dancing plague artwork (Pieter Brueghel, Hendrick Hondius)
+   - 1x Medieval medical illustration
+   - 1x Map of Strasbourg/Holy Roman Empire
+   - 1x Frau Troffea (depiction/artwork)
+   - 3x AI-generated (mass dancing in medieval streets, exhausted dancers)
+📂 Folder: day03_dancing_plague/
+
+DAY 4 (Kamis) — SHORT
+📌 Topik: "The Last Photo of the Titanic Before It Sank"
+📝 Angle: Sejarah Titanic dari sudut yang jarang diceritakan
+🔥 Hook: "This is the last known photo of the Titanic afloat. Hours later, 1,500 people were dead."
+📸 Foto dibutuhkan: 12
+   - 3x Titanic photos (departure, at sea, last known photo — Cobh Ireland)
+   - 2x Passengers (real photos: captain Smith, first class, steerage)
+   - 2x Rescue scenes (Carpathia, lifeboats)
+   - 1x Newspaper headlines (NY Times, Daily Mirror)
+   - 1x Underwater wreck photo
+   - 3x AI-generated (sinking scene, iceberg collision, underwater)
+📂 Folder: day04_titanic_last_photo/
+
+DAY 5 (Jumat) — SHORT
+📌 Topik: "Hiroshima's Shadow People — Nuclear Shadows Burned Into Stone"
+📝 Angle: Bayangan manusia tercetak permanen di batu akibat bom atom
+🔥 Hook: "The nuclear bomb was so powerful, it burned people's shadows permanently into the ground."
+📸 Foto dibutuhkan: 10
+   - 3x Nuclear shadows (real photos from Hiroshima — bank steps, bridge)
+   - 2x Hiroshima before/after
+   - 1x Enola Gay photo
+   - 1x Mushroom cloud
+   - 1x Hiroshima Peace Memorial
+   - 2x AI-generated (moment of detonation, shadow formation)
+📂 Folder: day05_hiroshima_shadows/
+
+DAY 6 (Sabtu) — SHORT
+📌 Topik: "The Library of Alexandria — Humanity's Greatest Loss"
+📝 Angle: Pengetahuan ribuan tahun yang hilang selamanya
+🔥 Hook: "We lost thousands of years of human knowledge in a single fire. Some scholars believe we were set back by centuries."
+📸 Foto dibutuhkan: 10
+   - 2x Library of Alexandria artwork/reconstruction
+   - 2x Ancient Egyptian/Greek scholars (paintings, reliefs)
+   - 1x Ancient scrolls/manuscripts
+   - 1x Map of ancient Alexandria
+   - 1x Modern Bibliotheca Alexandrina
+   - 3x AI-generated (library interior, fire scene, scholars working)
+📂 Folder: day06_library_alexandria/
+
+DAY 7 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Complete Fall of Rome — How the Greatest Empire Collapsed"
+📝 Angle: Full documentary, detail kronologis, multiple causes
+🔥 Hook: "Rome didn't fall in a day. It was a slow, agonizing death that took 200 years."
+📸 Foto dibutuhkan: 35
+   - 5x Roman Empire at its peak (maps, architecture, Colosseum)
+   - 5x Roman emperors (busts, coins — Marcus Aurelius, Commodus, Diocletian, Constantine, Romulus Augustulus)
+   - 4x Barbarian invasions (artwork: Visigoths, Vandals, Huns)
+   - 3x Battle scenes (historical paintings)
+   - 3x Roman decline evidence (abandoned cities, crumbling infrastructure)
+   - 3x Maps (territory loss over time, barbarian migration routes)
+   - 2x Christianity's rise (early churches, Constantine conversion)
+   - 2x Economic decline (coin debasement, inflation)
+   - 3x Sack of Rome 410 & 455 AD (paintings, engravings)
+   - 5x AI-generated (dramatic scenes: last emperor, final battles)
+📂 Folder: day07_fall_of_rome_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 2 — WARS & WARFARE
+═══════════════════════════════════════════════════════════════
+
+DAY 8 (Senin) — SHORT
+📌 Topik: "The Night Witches — Soviet Women Who Terrorized Nazi Germany"
+📝 Angle: All-female bomber regiment, plywood planes, cut engines before bombing
+🔥 Hook: "The Nazis called them 'Night Witches.' They were teenage girls flying wooden planes, and Germany was terrified of them."
+📸 Foto dibutuhkan: 10
+   - 3x Real Night Witches photos (588th regiment, pilots, Po-2 planes)
+   - 2x Soviet women in WWII (various roles)
+   - 1x Po-2 biplane technical photo
+   - 1x Eastern Front map
+   - 3x AI-generated (night bombing run, pilots preparing, dramatic flight)
+📂 Folder: day08_night_witches/
+
+DAY 9 (Selasa) — SHORT
+📌 Topik: "Operation Mincemeat — The Dead Man Who Fooled Hitler"
+📝 Angle: British intelligence used a corpse with fake documents to trick Germany
+🔥 Hook: "The Allies won a major battle using a dead homeless man, fake love letters, and a briefcase chained to his wrist."
+📸 Foto dibutuhkan: 10
+   - 2x Operation Mincemeat documents (declassified photos)
+   - 2x "Major William Martin" (the corpse's fake identity, ID card)
+   - 1x Ewen Montagu photo (mastermind)
+   - 1x Map of Sicily invasion
+   - 1x Submarine HMS Seraph
+   - 3x AI-generated (body in water, briefcase scene, German officers reading)
+📂 Folder: day09_operation_mincemeat/
+
+DAY 10 (Rabu) — SHORT
+📌 Topik: "The Christmas Truce of 1914 — When Enemies Played Football"
+📝 Angle: WWI soldiers stopped fighting on Christmas, sang carols, played soccer
+🔥 Hook: "On Christmas Day 1914, soldiers from both sides climbed out of their trenches. Instead of shooting, they sang carols and played football."
+📸 Foto dibutuhkan: 10
+   - 3x Real Christmas Truce photos (soldiers meeting, No Man's Land)
+   - 2x WWI trenches (before/during)
+   - 1x Letters home from soldiers
+   - 1x Newspaper report of the truce
+   - 3x AI-generated (soldiers shaking hands, football game, carol singing)
+📂 Folder: day10_christmas_truce/
+
+DAY 11 (Kamis) — SHORT
+📌 Topik: "Japan's Unit 731 — The Darkest Secret of World War II"
+📝 Angle: Human experimentation, biological warfare — the atrocity that was covered up
+🔥 Hook: "Japan conducted experiments on living humans that made even Nazi doctors look tame. Then America helped cover it up."
+📸 Foto dibutuhkan: 10
+   - 3x Unit 731 real photos (facility, Shiro Ishii, documents)
+   - 2x Harbin/Manchuria maps and photos
+   - 1x WWII Pacific theater map
+   - 1x US-Japan post-war negotiations photo
+   - 3x AI-generated (facility exterior, laboratory, trial scene)
+📂 Folder: day11_unit_731/
+
+DAY 12 (Jumat) — SHORT
+📌 Topik: "The Assassination That Started World War I — But Almost Didn't Happen"
+📝 Angle: 6 assassins failed, Princip stopped for a sandwich, then bumped into the target by accident
+🔥 Hook: "World War I started because an assassin gave up, went to get a sandwich, and the target's car accidentally parked right in front of him."
+📸 Foto dibutuhkan: 10
+   - 2x Archduke Franz Ferdinand (portrait, with wife Sophie)
+   - 2x Gavrilo Princip (mugshot, arrest photo)
+   - 1x The car (Gräf & Stift Double Phaeton — still in museum)
+   - 1x Schiller's Delicatessen location/Sarajevo street
+   - 1x Newspaper headlines
+   - 3x AI-generated (assassination scene, crowds, war beginning)
+📂 Folder: day12_franz_ferdinand/
+
+DAY 13 (Sabtu) — SHORT
+📌 Topik: "The Siege of Stalingrad — The Bloodiest Battle in Human History"
+📝 Angle: 2 million casualties, soldiers fought over single buildings for weeks
+🔥 Hook: "In Stalingrad, the average life expectancy of a new Soviet soldier was 24 hours."
+📸 Foto dibutuhkan: 12
+   - 4x Real Stalingrad photos (ruins, soldiers, Pavlov's House, surrender)
+   - 2x German/Soviet commanders (Paulus, Chuikov)
+   - 1x Map of the encirclement
+   - 1x Mamayev Kurgan/The Motherland Calls statue
+   - 1x Newspaper/propaganda posters
+   - 3x AI-generated (urban combat, sniper scene, frozen soldiers)
+📂 Folder: day13_stalingrad/
+
+DAY 14 (Minggu) — LONG-FORM 🎬
+📌 Topik: "D-Day: The Full Story of the Normandy Invasion"
+📝 Angle: Hour-by-hour breakdown, all 5 beaches, planning, deception, aftermath
+🔥 Hook: "On June 6, 1944, 156,000 men crossed the English Channel into a wall of machine gun fire. This is what happened, hour by hour."
+📸 Foto dibutuhkan: 40
+   - 8x D-Day landing photos (Robert Capa's famous shots, each beach)
+   - 5x Planning/preparation (Eisenhower, war room, paratroopers boarding)
+   - 4x Operation Fortitude deception (fake tanks, Patton, dummy army)
+   - 5x Beach combat (Omaha, Utah, Juno, Gold, Sword — each beach)
+   - 3x Paratroopers (82nd, 101st Airborne, night drops)
+   - 3x Maps (invasion plan, beach assignments, movement arrows)
+   - 3x German defenses (Atlantic Wall, bunkers, Rommel inspecting)
+   - 2x Aftermath (Normandy American Cemetery, liberation celebration)
+   - 7x AI-generated (dramatic combat scenes, underwater obstacles, cliff assault)
+📂 Folder: day14_dday_normandy_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 3 — DARK HISTORY & MYSTERIES
+═══════════════════════════════════════════════════════════════
+
+DAY 15 (Senin) — SHORT
+📌 Topik: "The Real Dracula — Vlad the Impaler's Forest of the Dead"
+📝 Angle: Ottoman army turned back after seeing 20,000 impaled bodies
+🔥 Hook: "When the Ottoman army came to conquer Vlad, they found a forest. But the trees were people."
+📸 Foto dibutuhkan: 10
+   - 2x Vlad III portraits (woodcuts, paintings)
+   - 2x Impalement artwork (historical woodcuts)
+   - 1x Bran Castle / Poenari Castle
+   - 1x Map of Wallachia
+   - 1x Ottoman army illustrations
+   - 3x AI-generated (forest of stakes, Vlad on throne, Ottoman horror)
+📂 Folder: day15_vlad_impaler/
+
+DAY 16 (Selasa) — SHORT
+📌 Topik: "The Dyatlov Pass Incident — 9 Hikers, 1 Impossible Death"
+📝 Angle: 9 hikers found dead, tent ripped from inside, some missing eyes/tongue
+🔥 Hook: "9 experienced hikers ripped open their tent from the inside, ran barefoot into -30°C, and were never seen alive again."
+📸 Foto dibutuhkan: 10
+   - 3x Real Dyatlov photos (group photo, tent found, search party)
+   - 2x Bodies/investigation photos (respectful ones, from archives)
+   - 1x Map of Ural Mountains / Kholat Syakhl
+   - 1x Soviet investigation documents
+   - 3x AI-generated (tent at night, hikers fleeing, mountain scene)
+📂 Folder: day16_dyatlov_pass/
+
+DAY 17 (Rabu) — SHORT
+📌 Topik: "The Door to Hell — A Fire That Has Been Burning for 50 Years"
+📝 Angle: Soviet scientists lit a gas crater on fire in 1971, it's STILL burning
+🔥 Hook: "In 1971, Soviet scientists accidentally created a hole to hell. It's been on fire for over 50 years. And no one can put it out."
+📸 Foto dibutuhkan: 10
+   - 3x Darvaza Gas Crater real photos (day, night, aerial)
+   - 2x Turkmenistan landscape/maps
+   - 1x Soviet drilling equipment (1970s)
+   - 1x George Kourounis explorer (descended into it)
+   - 3x AI-generated (moment of ignition, hellish landscape, Soviet scientists)
+📂 Folder: day17_door_to_hell/
+
+DAY 18 (Kamis) — SHORT
+📌 Topik: "The Jonestown Massacre — 918 People Drank Poison on Command"
+📝 Angle: Jim Jones convinced 918 followers to commit mass suicide
+🔥 Hook: "A preacher convinced 918 people, including 304 children, to drink cyanide-laced punch. The phrase 'drinking the Kool-Aid' comes from this."
+📸 Foto dibutuhkan: 10
+   - 3x Real Jonestown photos (compound, Jim Jones preaching, aftermath — respectful)
+   - 2x Jim Jones portraits (young, at podium)
+   - 1x Congressman Leo Ryan
+   - 1x Guyana map/location
+   - 3x AI-generated (compound in jungle, crowd scene, departure from US)
+📂 Folder: day18_jonestown/
+
+DAY 19 (Jumat) — SHORT
+📌 Topik: "The Plague Doctor Masks — What Was Actually Inside Them"
+📝 Angle: The beaks were stuffed with flowers and herbs — medieval anti-gas mask
+🔥 Hook: "Those creepy bird masks plague doctors wore? They were stuffed with flowers because doctors believed stinky air caused the plague."
+📸 Foto dibutuhkan: 10
+   - 3x Plague doctor artwork (historical engravings, paintings)
+   - 2x Black Death scenes (mass graves, flagellants)
+   - 1x Actual plague doctor mask (museum photo)
+   - 1x Herbs/flowers used in beak (lavender, roses, camphor)
+   - 3x AI-generated (plague doctor in dark street, treating patient, mask detail)
+📂 Folder: day19_plague_doctor/
+
+DAY 20 (Sabtu) — SHORT
+📌 Topik: "The Aztec Death Whistle — The Scariest Sound in History"
+📝 Angle: Aztec warriors carried whistles that sound like screaming humans
+🔥 Hook: "The Aztec army carried these. When 1,000 warriors blew them at once, it sounded like 1,000 people screaming in agony."
+📸 Foto dibutuhkan: 10
+   - 3x Real death whistles (museum artifacts, different types)
+   - 2x Aztec warfare artwork (codex illustrations)
+   - 1x Tenochtitlan illustration/map
+   - 1x Aztec warrior costume/armor
+   - 3x AI-generated (army blowing whistles, battle scene, close-up warrior)
+📂 Folder: day20_aztec_death_whistle/
+
+DAY 21 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Black Death — The Plague That Killed Half of Europe"
+📝 Angle: Full documentary, origin to aftermath, societal collapse and rebirth
+🔥 Hook: "Between 1347 and 1351, a disease killed between 75 and 200 million people. It changed the world forever. This is its story."
+📸 Foto dibutuhkan: 35
+   - 5x Plague artwork (Triumph of Death, Dance of Death, mass burials)
+   - 4x Medieval cities before/during plague (paintings, woodcuts)
+   - 3x Flagellants & religious response (artwork)
+   - 3x Plague doctors (various depictions)
+   - 3x Maps (spread of plague across Europe, trade routes, Silk Road)
+   - 3x Jewish persecution during plague (scapegoating, pogroms)
+   - 2x Economic aftermath (labor shortage, peasant revolts)
+   - 2x Yersinia pestis (bacteria diagrams, modern photos)
+   - 2x Mass graves (archaeological photos — Smithfield, Provence)
+   - 8x AI-generated (ships arriving, city panic, empty streets, survivors)
+📂 Folder: day21_black_death_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 4 — ESPIONAGE & COLD WAR
+═══════════════════════════════════════════════════════════════
+
+DAY 22 (Senin) — SHORT
+📌 Topik: "The CIA's Mind Control Program — Project MKUltra"
+📝 Angle: CIA dosed unwitting Americans with LSD for 20 years
+🔥 Hook: "The CIA secretly drugged American citizens with LSD for 20 years. When they got caught, they burned almost every document."
+📸 Foto dibutuhkan: 10
+   - 3x Declassified MKUltra documents (real, from FOIA)
+   - 2x Sidney Gottlieb, Allen Dulles photos
+   - 1x LSD chemical structure / blotter art
+   - 1x Frank Olson (victim who "fell" from window)
+   - 3x AI-generated (laboratory scene, dosing scene, document burning)
+📂 Folder: day22_mkultra/
+
+DAY 23 (Selasa) — SHORT
+📌 Topik: "The Berlin Wall Fell Because of a Press Conference Mistake"
+📝 Angle: Spokesman accidentally said borders open "immediately," crowds stormed wall
+🔥 Hook: "The Berlin Wall didn't fall because of a revolution. It fell because one guy misread a memo on live TV."
+📸 Foto dibutuhkan: 10
+   - 3x Berlin Wall fall photos (people on wall, hammering, celebration)
+   - 2x Günter Schabowski at press conference
+   - 1x The memo/document
+   - 1x Berlin Wall before (guards, death strip)
+   - 3x AI-generated (crowds rushing, wall coming down, emotional moments)
+📂 Folder: day23_berlin_wall/
+
+DAY 24 (Rabu) — SHORT
+📌 Topik: "Stanislav Petrov — The Man Who Saved the World by Doing Nothing"
+📝 Angle: Soviet officer's computer said 5 US nukes incoming, he chose not to report it
+🔥 Hook: "In 1983, a Soviet officer's screen showed 5 American nuclear missiles heading toward Russia. He had 23 minutes to decide. He chose to do nothing."
+📸 Foto dibutuhkan: 10
+   - 2x Stanislav Petrov (real photos)
+   - 2x Soviet early warning system (Serpukhov-15 bunker)
+   - 1x Nuclear missile launch / ICBM
+   - 1x Cold War map (US vs USSR)
+   - 1x Reagan-era tensions photos
+   - 3x AI-generated (bunker alarm scene, decision moment, missiles in sky)
+📂 Folder: day24_stanislav_petrov/
+
+DAY 25 (Kamis) — SHORT
+📌 Topik: "The Real-Life Spy Who Used a Fake Rock — Operation RYAN"
+📝 Angle: UK spies hid transmitter in a fake rock in Moscow — Putin exposed it
+🔥 Hook: "British spies planted a fake rock in a Moscow park. Inside was a transmitter. Russia found it. And it caused a diplomatic nightmare."
+📸 Foto dibutuhkan: 10
+   - 2x The actual spy rock (photos released by Russia)
+   - 2x Moscow park/location
+   - 1x British Embassy Moscow
+   - 1x Putin's press conference about it
+   - 1x MI6 building (Vauxhall Cross)
+   - 3x AI-generated (spy placing rock, transmitter interior, surveillance)
+📂 Folder: day25_spy_rock/
+
+DAY 26 (Jumat) — SHORT
+📌 Topik: "Operation Paperclip — America Hired Nazi Scientists After WWII"
+📝 Angle: US secretly recruited 1,600 Nazi scientists including Wernher von Braun
+🔥 Hook: "The man who put America on the moon was a Nazi. And the US government knew it when they hired him."
+📸 Foto dibutuhkan: 10
+   - 3x Wernher von Braun (Nazi era + NASA era, side by side)
+   - 2x V-2 rocket (Nazi era, then adapted by NASA)
+   - 1x Operation Paperclip declassified document
+   - 1x Fort Bliss scientist group photo
+   - 3x AI-generated (scientists arriving in US, rocket lab, moral contrast)
+📂 Folder: day26_operation_paperclip/
+
+DAY 27 (Sabtu) — SHORT
+📌 Topik: "Chernobyl's Elephant's Foot — The Most Dangerous Object on Earth"
+📝 Angle: A blob of melted nuclear fuel so radioactive it kills in 30 seconds
+🔥 Hook: "This blob of melted nuclear fuel is so radioactive that standing next to it for 30 seconds will kill you. And someone took a selfie with it."
+📸 Foto dibutuhkan: 10
+   - 3x Elephant's Foot real photos (1986, different angles, decay)
+   - 2x Chernobyl reactor 4 (before/after explosion)
+   - 1x Artur Korneyev selfie with the Foot
+   - 1x Pripyat ghost town
+   - 3x AI-generated (meltdown moment, containment failure, radiation visualization)
+📂 Folder: day27_elephants_foot/
+
+DAY 28 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Full Story of the Cold War — From Allies to Almost Annihilation"
+📝 Angle: Complete timeline, key moments, proxy wars, how close we came to nuclear war
+🔥 Hook: "For 45 years, two superpowers pointed enough nuclear weapons at each other to destroy the world 100 times over."
+📸 Foto dibutuhkan: 40
+   - 5x Key leaders (Truman, Stalin, Kennedy, Khrushchev, Reagan, Gorbachev)
+   - 5x Nuclear tests & weapons (Tsar Bomba, Castle Bravo, missile silos)
+   - 4x Cuban Missile Crisis (U-2 photos, Kennedy, blockade, letters)
+   - 4x Berlin (Wall construction, checkpoint, JFK speech, fall)
+   - 3x Korean War photos
+   - 3x Vietnam War iconic photos
+   - 3x Space Race (Sputnik, Gagarin, Apollo 11)
+   - 3x Proxy wars (Afghanistan, Angola, Latin America)
+   - 2x Détente (Nixon-Mao, SALT treaties)
+   - 2x End of Cold War (Gorbachev, USSR dissolution)
+   - 6x AI-generated (nuclear standoff, submarine scenes, bunker life)
+📂 Folder: day28_cold_war_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 5 — EXPLORATION & DISCOVERIES
+═══════════════════════════════════════════════════════════════
+
+DAY 29 (Senin) — SHORT
+📌 Topik: "The Tomb of Tutankhamun — The Curse That Killed 6 People"
+📝 Angle: Everyone who opened the tomb died under mysterious circumstances
+🔥 Hook: "When they opened King Tut's tomb, a cobra ate Howard Carter's canary. Then people started dying."
+📸 Foto dibutuhkan: 10
+   - 3x Real tomb photos (Howard Carter opening, gold mask, treasures)
+   - 2x Lord Carnarvon (before/after, death photo)
+   - 1x Newspaper headlines about the curse
+   - 1x Valley of the Kings map/photo
+   - 3x AI-generated (tomb opening moment, golden chambers, curse symbolism)
+📂 Folder: day29_tutankhamun_curse/
+
+DAY 30 (Selasa) — SHORT
+📌 Topik: "The Voynich Manuscript — A Book No One Can Read for 600 Years"
+📝 Angle: 600-year-old book in an unknown language with bizarre illustrations
+🔥 Hook: "For 600 years, the world's best codebreakers, linguists, and AI have tried to read this book. No one has succeeded."
+📸 Foto dibutuhkan: 10
+   - 4x Real Voynich manuscript pages (botanical, astronomical, biological sections)
+   - 2x Close-up of unknown script
+   - 1x Wilfrid Voynich photo
+   - 1x Yale Beinecke Library (current location)
+   - 2x AI-generated (medieval scribe writing it, analysis attempts)
+📂 Folder: day30_voynich_manuscript/
+
+DAY 31 (Rabu) — SHORT
+📌 Topik: "The Lighthouse of Alexandria — The Tallest Building for 1,000 Years"
+📝 Angle: Ancient wonder that guided ships for centuries, destroyed by earthquakes
+🔥 Hook: "For over 1,000 years, this was the tallest building on Earth. Its fire could be seen 50 kilometers away. Now it's gone."
+📸 Foto dibutuhkan: 10
+   - 2x Artist reconstructions (historical + modern CGI)
+   - 2x Ancient coins/mosaics showing the lighthouse
+   - 1x Underwater ruins (Franck Goddio expedition photos)
+   - 1x Map of ancient Alexandria harbor
+   - 1x Modern Qaitbay Fort (built on same site)
+   - 3x AI-generated (lighthouse at night with fire, ships approaching, earthquake)
+📂 Folder: day31_lighthouse_alexandria/
+
+DAY 32 (Kamis) — SHORT
+📌 Topik: "The Terracotta Army — 8,000 Soldiers Guarding a Dead Emperor"
+📝 Angle: Farmers accidentally discovered a buried army, each face is unique
+🔥 Hook: "In 1974, a farmer digging a well found a face staring back at him. Behind it were 8,000 more."
+📸 Foto dibutuhkan: 12
+   - 4x Terracotta Army real photos (wide shot, close-ups, different ranks)
+   - 2x Discovery photos (1974, farmers, early excavation)
+   - 1x Qin Shi Huang portrait/artwork
+   - 1x Map of Xi'an/tomb complex
+   - 1x Museum current state
+   - 3x AI-generated (burial ceremony, army being made, underground reveal)
+📂 Folder: day32_terracotta_army/
+
+DAY 33 (Jumat) — SHORT
+📌 Topik: "Easter Island's Moai — How Did They Move 80-Ton Statues?"
+📝 Angle: Mystery of how 900 statues were moved without wheels or animals
+🔥 Hook: "900 statues. 80 tons each. No wheels. No animals. A tiny island in the middle of nowhere. How?"
+📸 Foto dibutuhkan: 10
+   - 3x Moai real photos (standing, fallen, quarry)
+   - 2x Rapa Nui/Easter Island landscape
+   - 1x Map showing island's isolation
+   - 1x Ahu Tongariki (restored platform)
+   - 3x AI-generated (statue being "walked," carving in quarry, ceremonial scene)
+📂 Folder: day33_easter_island/
+
+DAY 34 (Sabtu) — SHORT
+📌 Topik: "The Lost City of Pompeii — Frozen in Time by a Volcano"
+📝 Angle: An entire Roman city preserved by volcanic ash, bodies still in place
+🔥 Hook: "In 79 AD, a volcano buried an entire city in 20 feet of ash. When they dug it up 1,700 years later, the bread was still on the table."
+📸 Foto dibutuhkan: 12
+   - 4x Pompeii real photos (plaster casts, streets, frescoes, amphitheater)
+   - 2x Mount Vesuvius (eruption paintings, modern photo)
+   - 1x Pliny the Younger's letter excerpt
+   - 1x Map of Bay of Naples
+   - 1x Preserved bread/food artifacts
+   - 3x AI-generated (eruption moment, city life before, ash burying city)
+📂 Folder: day34_pompeii/
+
+DAY 35 (Minggu) — LONG-FORM 🎬
+📌 Topik: "Lost Civilizations — 5 Advanced Societies That Vanished Without a Trace"
+📝 Angle: Maya collapse, Indus Valley, Minoan, Cahokia, Rapa Nui — what happened?
+🔥 Hook: "Five civilizations more advanced than their neighbors simply... vanished. No wars. No invasions. They just disappeared."
+📸 Foto dibutuhkan: 40
+   - 8x Maya (Tikal, Chichen Itza, glyphs, calendar, collapse evidence)
+   - 6x Indus Valley/Harappa (Mohenjo-daro, Great Bath, seals, drainage)
+   - 6x Minoan Crete (Knossos palace, bull-leaping fresco, Linear A)
+   - 6x Cahokia (Monks Mound, artist reconstructions, artifacts)
+   - 5x Rapa Nui (deforestation evidence, moai, petroglyphs)
+   - 3x Maps (locations of all 5 civilizations)
+   - 6x AI-generated (city at peak, moment of collapse, abandoned ruins)
+📂 Folder: day35_lost_civilizations_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 6 — MODERN HISTORY & RECENT EVENTS
+═══════════════════════════════════════════════════════════════
+
+DAY 36 (Senin) — SHORT
+📌 Topik: "The Samurai Who Fought in WWII — Hiroo Onoda's 29-Year War"
+📝 Angle: Japanese soldier didn't know WWII ended, kept fighting until 1974
+🔥 Hook: "A Japanese soldier refused to believe WWII was over. He kept fighting for 29 years. Only his former commander could convince him to stop."
+📸 Foto dibutuhkan: 10
+   - 3x Hiroo Onoda real photos (1944, 1974 surrender, old age)
+   - 2x Lubang Island, Philippines
+   - 1x Norio Suzuki (adventurer who found him)
+   - 1x Major Taniguchi (his former commander)
+   - 3x AI-generated (jungle warfare, decades of hiding, surrender moment)
+📂 Folder: day36_hiroo_onoda/
+
+DAY 37 (Selasa) — SHORT
+📌 Topik: "The Challenger Disaster — NASA Knew It Would Explode"
+📝 Angle: Engineers warned NASA, management overruled them, 7 crew died
+🔥 Hook: "NASA engineers begged them not to launch. Management overruled them. 73 seconds later, 7 people were dead."
+📸 Foto dibutuhkan: 10
+   - 3x Challenger photos (launch, explosion sequence, crew photo)
+   - 2x O-ring evidence / Roger Boisjoly's warnings
+   - 1x Christa McAuliffe (teacher in space program)
+   - 1x Recovery operations
+   - 3x AI-generated (launch moment, control room horror, memorial)
+📂 Folder: day37_challenger/
+
+DAY 38 (Rabu) — SHORT
+📌 Topik: "The Rwandan Genocide — 800,000 Killed in 100 Days"
+📝 Angle: The world watched and did nothing
+🔥 Hook: "In 100 days, 800,000 people were murdered. The world watched. And did nothing."
+📸 Foto dibutuhkan: 10
+   - 3x Real Rwanda photos (memorial, aftermath — respectful)
+   - 2x Key figures (Habyarimana, Kagame, Dallaire)
+   - 1x UN peacekeepers (limited, unable to act)
+   - 1x Map of Rwanda/ethnic distribution
+   - 3x AI-generated (radio propaganda, civilian flight, memorial)
+📂 Folder: day38_rwandan_genocide/
+
+DAY 39 (Kamis) — SHORT
+📌 Topik: "The Great Molasses Flood — When Boston Was Drowned in Syrup"
+📝 Angle: A 2.3 million gallon molasses tank exploded, killing 21 people
+🔥 Hook: "In 1919, a wave of molasses 25 feet high crashed through Boston at 35 mph. 21 people drowned in syrup."
+📸 Foto dibutuhkan: 10
+   - 3x Real photos (aftermath, destruction, cleanup crews)
+   - 2x Purity Distilling Company tank
+   - 1x Map of Boston North End
+   - 1x Newspaper headlines
+   - 3x AI-generated (wave of molasses, destruction moment, cleanup)
+📂 Folder: day39_molasses_flood/
+
+DAY 40 (Jumat) — SHORT
+📌 Topik: "The Leaning Tower of Pisa Was a Mistake — And It Took 200 Years to Build"
+📝 Angle: It started leaning during construction, took 200 years because of wars
+🔥 Hook: "The Leaning Tower of Pisa started tilting before they even finished building it. They spent 200 years trying to fix it. They failed."
+📸 Foto dibutuhkan: 10
+   - 3x Tower of Pisa real photos (current, historical, construction detail)
+   - 2x Engineering fixes (counterweights, soil extraction)
+   - 1x Galileo dropping balls illustration
+   - 1x Map of medieval Pisa
+   - 3x AI-generated (medieval construction, tilting discovery, Galileo experiment)
+📂 Folder: day40_leaning_tower/
+
+DAY 41 (Sabtu) — SHORT
+📌 Topik: "The Wow! Signal — The Best Evidence We're Not Alone"
+📝 Angle: 72-second signal from space, never repeated, still unexplained
+🔥 Hook: "In 1977, a telescope picked up a signal from deep space so unusual that the astronomer wrote 'Wow!' next to it. We've been listening for a reply ever since."
+📸 Foto dibutuhkan: 10
+   - 2x Original Wow! Signal printout (Jerry Ehman's annotation)
+   - 2x Big Ear telescope
+   - 1x Jerry Ehman photo
+   - 1x Star map (Chi Sagittarii region)
+   - 1x SETI array (modern)
+   - 3x AI-generated (signal visualization, deep space, telescope receiving)
+📂 Folder: day41_wow_signal/
+
+DAY 42 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Titanic — Everything You Think You Know Is Wrong"
+📝 Angle: Debunk common myths, reveal lesser-known facts, full story
+🔥 Hook: "Almost everything you learned about the Titanic is wrong. The band didn't play 'Nearer My God to Thee.' The captain didn't go down with the ship the way you think. This is what really happened."
+📸 Foto dibutuhkan: 40
+   - 8x Titanic real photos (construction, launch, interiors, passengers)
+   - 5x Passengers (Astor, Guggenheim, Molly Brown, crew, steerage)
+   - 4x Sinking evidence (Carpathia, lifeboats, survivors)
+   - 3x Newspaper coverage (various cities)
+   - 3x Underwater wreck (Ballard expedition, recent scans)
+   - 3x Inquiry/investigation (Senate hearing, Bruce Ismay)
+   - 3x Maps (route, iceberg field, distress signals)
+   - 3x Before/after (ship comparison, plans vs reality)
+   - 8x AI-generated (sinking sequence, underwater scenes, lifeboat drama)
+📂 Folder: day42_titanic_full_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 7 — SCIENCE & INNOVATION
+═══════════════════════════════════════════════════════════════
+
+DAY 43 (Senin) — SHORT
+📌 Topik: "Nikola Tesla Died Broke — While Edison Died Rich"
+📝 Angle: Tesla invented AC power, radio, X-ray — died alone in a hotel room
+🔥 Hook: "The man who invented the modern world died alone in a hotel room with a pigeon as his only friend. Meanwhile, the man who stole his ideas died a millionaire."
+📸 Foto dibutuhkan: 10
+   - 2x Tesla portraits (young, old)
+   - 2x Edison portraits
+   - 1x Tesla coil / laboratory
+   - 1x Hotel New Yorker (where Tesla died)
+   - 1x War of Currents diagram
+   - 3x AI-generated (Tesla alone, Edison in luxury, rivalry scene)
+📂 Folder: day43_tesla_vs_edison/
+
+DAY 44 (Selasa) — SHORT
+📌 Topik: "The Radium Girls — Poisoned by Glow-in-the-Dark Paint"
+📝 Angle: Factory workers licked radium brushes, jaws fell off, company covered it up
+🔥 Hook: "They were told to lick the brushes. The paint made them glow in the dark. Then their jaws started falling off."
+📸 Foto dibutuhkan: 10
+   - 3x Real Radium Girls photos (workers, factory, radium dial watches)
+   - 2x Medical evidence (jaw necrosis X-rays — historical)
+   - 1x US Radium Corporation building
+   - 1x Radium products advertisements (1920s)
+   - 3x AI-generated (girls painting dials, glowing in dark, courtroom)
+📂 Folder: day44_radium_girls/
+
+DAY 45 (Rabu) — SHORT
+📌 Topik: "The Demon Core — The Nuclear Bomb That Killed Two Scientists"
+📝 Angle: Same plutonium sphere killed 2 scientists in separate accidents
+🔥 Hook: "They called it the Demon Core. It killed one scientist with a screwdriver slip and another with a falling brick. Both deaths were agonizingly slow."
+📸 Foto dibutuhkan: 10
+   - 2x Demon Core real photos (the sphere, experiments)
+   - 2x Harry Daghlian & Louis Slotin (real photos)
+   - 1x Los Alamos laboratory
+   - 1x Screwdriver experiment diagram
+   - 1x Crossroads nuclear test (where core was finally used)
+   - 3x AI-generated (criticality moment, blue flash, hospital scene)
+📂 Folder: day45_demon_core/
+
+DAY 46 (Kamis) — SHORT
+📌 Topik: "The Doctor Who Drank Cholera to Prove a Point"
+📝 Angle: Max von Pettenkofer drank cholera bacteria to disprove germ theory
+🔥 Hook: "To prove germs don't cause disease, a doctor drank a glass full of cholera bacteria in front of his students. And somehow survived."
+📸 Foto dibutuhkan: 10
+   - 2x Max von Pettenkofer portrait
+   - 2x Robert Koch (rival, germ theory)
+   - 1x Cholera bacteria illustration (historical)
+   - 1x 19th century laboratory
+   - 1x Munich University
+   - 3x AI-generated (drinking moment, lecture hall reaction, cholera ward)
+📂 Folder: day46_cholera_doctor/
+
+DAY 47 (Jumat) — SHORT
+📌 Topik: "The Map That Changed the World — And Destroyed Its Creator"
+📝 Angle: William Smith created first geological map, went bankrupt and to debtor's prison
+🔥 Hook: "He created the map that founded modern geology. His reward? Bankruptcy, prison, and seeing someone else get the credit."
+📸 Foto dibutuhkan: 10
+   - 2x William Smith's geological map (original, detail)
+   - 2x William Smith portrait
+   - 1x Fossils he collected (museum)
+   - 1x George Bellas Greenough (plagiarist)
+   - 1x Debtor's prison illustration
+   - 3x AI-generated (Smith surveying, mapping by candlelight, prison)
+📂 Folder: day47_geological_map/
+
+DAY 48 (Sabtu) — SHORT
+📌 Topik: "Operation Acoustic Kitty — The CIA Put a Microphone Inside a Cat"
+📝 Angle: CIA spent $20M to turn a cat into a spy, cat got hit by a taxi
+🔥 Hook: "The CIA spent $20 million turning a cat into a listening device. On its first mission, it was hit by a taxi."
+📸 Foto dibutuhkan: 10
+   - 2x Declassified documents (CIA files)
+   - 2x 1960s CIA headquarters
+   - 1x Surgical diagram (from reports)
+   - 1x Soviet Embassy Washington (target)
+   - 1x Cat X-ray illustration
+   - 3x AI-generated (surgery scene, cat on mission, taxi incident)
+📂 Folder: day48_acoustic_kitty/
+
+DAY 49 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Nuclear Age — Every Nuclear Explosion in History"
+📝 Angle: From Trinity to North Korea, every nuclear test mapped chronologically
+🔥 Hook: "Since 1945, humanity has detonated over 2,000 nuclear weapons. Each one was a step closer to the end of the world."
+📸 Foto dibutuhkan: 40
+   - 6x Iconic tests (Trinity, Hiroshima, Bikini, Tsar Bomba, Castle Bravo, Chinese)
+   - 5x Test sites (Nevada, Marshall Islands, Semipalatinsk, Lop Nur, Novaya Zemlya)
+   - 4x Scientists (Oppenheimer, Sakharov, Teller, Fuchs)
+   - 4x Victims/aftermath (Hiroshima/Nagasaki, Bikini Islanders, Downwinders)
+   - 4x Maps (test locations worldwide, fallout maps)
+   - 3x Protest/anti-nuclear movement (CND, Greenpeace, treaties)
+   - 3x Modern threats (North Korea, Iran, modernization programs)
+   - 3x Bomb designs (diagrams: fission, fusion, hydrogen)
+   - 8x AI-generated (underwater tests, mushroom clouds, bunkers)
+📂 Folder: day49_nuclear_age_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 8 — EMPIRES & CONQUESTS
+═══════════════════════════════════════════════════════════════
+
+DAY 50 (Senin) — SHORT
+📌 Topik: "Genghis Khan Killed So Many People He Cooled the Planet"
+📝 Angle: 40 million deaths reduced CO2 enough to cool Earth's temperature
+🔥 Hook: "Genghis Khan killed 40 million people — about 10% of the world's population. He killed so many that forests grew back on the farmland, and Earth's temperature dropped."
+📸 Foto dibutuhkan: 10
+   - 2x Genghis Khan artwork (various depictions)
+   - 2x Mongol warfare (historical paintings, miniatures)
+   - 1x Mongol Empire map (at peak)
+   - 1x CO2/temperature data visualization
+   - 1x Modern Mongolia landscape
+   - 3x AI-generated (Mongol army, destroyed city, forest reclaiming farmland)
+📂 Folder: day50_genghis_khan_climate/
+
+DAY 51 (Selasa) — SHORT
+📌 Topik: "The Spanish Conquistadors Destroyed the Aztec Empire With 500 Men"
+📝 Angle: Cortés with 500 soldiers defeated an empire of millions — using disease and alliances
+🔥 Hook: "500 men destroyed an empire of 5 million. Not with superior weapons — but with smallpox and broken promises."
+📸 Foto dibutuhkan: 10
+   - 2x Cortés portraits/artwork
+   - 2x Tenochtitlan reconstruction/artwork
+   - 2x Aztec codex illustrations (warfare, disease)
+   - 1x Map of Cortés's route
+   - 1x Montezuma II
+   - 2x AI-generated (meeting of two worlds, siege of Tenochtitlan)
+📂 Folder: day51_conquistadors_aztec/
+
+DAY 52 (Rabu) — SHORT
+📌 Topik: "The Ottoman Empire Conquered Constantinople With a 27-Foot Cannon"
+📝 Angle: Mehmed II used the largest cannon ever built to breach walls that stood for 1,000 years
+🔥 Hook: "For 1,000 years, Constantinople's walls were unbreakable. Then a 27-foot cannon changed everything."
+📸 Foto dibutuhkan: 10
+   - 2x Constantinople walls (ruins, reconstructions)
+   - 2x Mehmed II portraits/artwork
+   - 1x The Great Bombard / Orban's cannon (museum photo)
+   - 1x Fall of Constantinople paintings
+   - 1x Map of the siege
+   - 3x AI-generated (cannon firing, walls crumbling, Ottoman army)
+📂 Folder: day52_fall_constantinople/
+
+DAY 53 (Kamis) — SHORT
+📌 Topik: "Alexander the Great Never Lost a Battle — Then Died at 32"
+📝 Angle: Conquered the known world in 13 years, died mysteriously
+🔥 Hook: "He conquered the known world before turning 30. He never lost a single battle. Then he died at 32, and no one knows why."
+📸 Foto dibutuhkan: 10
+   - 2x Alexander mosaic / portraits (Pompeii mosaic, busts)
+   - 2x Battle artwork (Issus, Gaugamela)
+   - 1x Empire map at peak
+   - 1x Babylon ruins (where he died)
+   - 1x Bucephalus (horse) artwork
+   - 3x AI-generated (triumphant entry, deathbed scene, army crossing desert)
+📂 Folder: day53_alexander_great/
+
+DAY 54 (Jumat) — SHORT
+📌 Topik: "The Haitian Revolution — The Only Successful Slave Revolt in History"
+📝 Angle: Enslaved people defeated Napoleon's army and founded a nation
+🔥 Hook: "Enslaved people defeated the most powerful army in the world, killed their masters, and founded a nation. Then the world punished them for it."
+📸 Foto dibutuhkan: 10
+   - 2x Toussaint Louverture portraits
+   - 2x Haitian Revolution artwork (battles, burning plantations)
+   - 1x Jean-Jacques Dessalines
+   - 1x Map of Saint-Domingue / Haiti
+   - 1x French army defeat
+   - 3x AI-generated (slave uprising, battle scene, independence declaration)
+📂 Folder: day54_haitian_revolution/
+
+DAY 55 (Sabtu) — SHORT
+📌 Topik: "The British Empire — How a Tiny Island Conquered 1/4 of the World"
+📝 Angle: How did a small rainy island come to control 25% of Earth?
+🔥 Hook: "A tiny, rainy island smaller than Oregon somehow conquered a quarter of the entire planet. This is how they did it."
+📸 Foto dibutuhkan: 12
+   - 3x British Empire maps (growth over centuries)
+   - 2x Colonial era photos/paintings (India, Africa, Americas)
+   - 2x Key figures (Queen Victoria, East India Company)
+   - 1x Royal Navy fleet
+   - 1x Modern Commonwealth nations
+   - 3x AI-generated (colonial scenes, naval power, trading posts)
+📂 Folder: day55_british_empire/
+
+DAY 56 (Minggu) — LONG-FORM 🎬
+📌 Topik: "The Mongol Empire — The Largest Land Empire in Human History"
+📝 Angle: From Temüjin's childhood to the empire's fragmentation
+🔥 Hook: "One man united nomadic tribes, conquered more territory than any person in history, and changed the DNA of 1 in 200 men alive today."
+📸 Foto dibutuhkan: 40
+   - 6x Genghis Khan (various artwork, coronation, battles)
+   - 5x Mongol warfare (horse archers, siege warfare, composite bows)
+   - 4x Conquered cities (Baghdad, Samarkand, Kiev, Beijing — artwork)
+   - 4x Successor khans (Ögedei, Kublai, Batu, Hülegü)
+   - 3x Maps (expansion phases, trade routes, Yam postal system)
+   - 3x Silk Road revival (trade, cultural exchange)
+   - 3x Destruction evidence (skull pyramids, razed cities)
+   - 3x Pax Mongolica (peace, prosperity, connections)
+   - 9x AI-generated (steppe life, conquests, court scenes, Marco Polo)
+📂 Folder: day56_mongol_empire_LONG/
+
+
+═══════════════════════════════════════════════════════════════
+  MINGGU 9-12 — BONUS TOPICS (Quick Reference)
+═══════════════════════════════════════════════════════════════
+
+SHORTS (pick any, 10-12 foto each):
+
+Ancient World:
+- "Sparta's 300 Were Actually 7,000" — 10 foto
+- "The Egyptian Workers Who Built the Pyramids Were NOT Slaves" — 10 foto
+- "Roman Concrete Is Stronger Than Modern Concrete" — 10 foto
+- "Viking Berserkers — Warriors Who Fought Naked and High on Mushrooms" — 10 foto
+- "The Antikythera Mechanism — A 2,000-Year-Old Computer" — 10 foto
+
+Medieval:
+- "The Children's Crusade — Thousands of Kids Marched to Their Deaths" — 10 foto
+- "Medieval Peasants Had More Vacation Days Than You" — 10 foto
+- "The Trial of the Dead Pope — They Dug Up a Pope and Put His Corpse on Trial" — 10 foto
+- "Greek Fire — The Ancient Weapon No One Can Recreate" — 10 foto
+- "The Defenestration of Prague — A War Started by Throwing People Out a Window" — 10 foto
+
+Modern:
+- "The Tuskegee Experiment — 40 Years of Government-Sponsored Torture" — 10 foto
+- "The Great Emu War — Australia Lost a War Against Birds" — 10 foto
+- "Hachiko — The Dog Who Waited 9 Years for His Dead Owner" — 10 foto
+- "The Man Who Survived Both Hiroshima AND Nagasaki" — 10 foto (Tsutomu Yamaguchi)
+- "The Stanford Prison Experiment — When Good People Became Monsters" — 10 foto
+
+Science & Space:
+- "Laika the Space Dog — The First Animal in Orbit Never Came Home" — 10 foto
+- "The Fermi Paradox — Where Is Everybody?" — 10 foto
+- "The Sound of a Black Hole — NASA Actually Recorded It" — 10 foto
+- "The Arecibo Message — We Sent a Message to Aliens in 1974" — 10 foto
+- "The Pale Blue Dot — The Most Humbling Photo Ever Taken" — 10 foto
+
+Weird History:
+- "Napoleon Was Once Attacked by Rabbits" — 10 foto
+- "The London Beer Flood — 1.4 Million Liters Flooded the Streets" — 10 foto
+- "Pope Gregory IX Declared War on Cats — It Helped Spread the Plague" — 10 foto
+- "Australia's Lost Prime Minister — He Went Swimming and Was Never Found" — 10 foto
+- "The Year Without a Summer — A Volcano Froze the World in 1816" — 10 foto
+
+
+═══════════════════════════════════════════════════════════════
+  UPLOAD SCHEDULE TEMPLATE
+═══════════════════════════════════════════════════════════════
+
+  Senin-Sabtu:  1 Short (60-90s)
+  Minggu:       1 Long-form (8-15min)
+
+  Best upload times (US audience, EST):
+  - Shorts:    6:00 AM EST (11:00 WIB) — catches morning scrollers
+  - Long-form: 2:00 PM EST (01:00 WIB next day) — afternoon/evening viewers
+
+  Weekly rhythm:
+  Mon: Short (varied topic)
+  Tue: Short (varied topic)
+  Wed: Short (varied topic)
+  Thu: Short (varied topic)
+  Fri: Short (varied topic)
+  Sat: Short (varied topic)
+  Sun: Long-form (deep dive on week's best performing topic OR new epic)
+
+  Total per month: ~26 Shorts + 4 Long-forms = 30 videos
+
+═══════════════════════════════════════════════════════════════
+  NOTES
+═══════════════════════════════════════════════════════════════
+
+  - Semua topik sudah divalidasi: viral potential tinggi di US market
+  - Setiap topik punya "hook" yang bikin orang stop scrolling
+  - Mix of: shocking, mysterious, ironic, heroic, tragic
+  - Avoid: purely Indonesian history (save for ID channel)
+  - Language: English (target US audience)
+  - Tone: Storytelling, dramatic, factual but engaging
+  - Jangan takut kontroversi — Unit 731, MKUltra, Tuskegee
+    (controversial = engagement tinggi)
+
+  Sumber foto gratis:
+  - Wikimedia Commons (commons.wikimedia.org)
+  - Library of Congress (loc.gov/pictures)
+  - National Archives (archives.gov)
+  - Internet Archive (archive.org)
+  - Smithsonian Open Access (si.edu/openaccess)
+  - NASA Image Gallery (images.nasa.gov)
+  - Unsplash (unsplash.com) — untuk landscape/modern shots
+  - British Museum collection (britishmuseum.org)
+
+═══════════════════════════════════════════════════════════════

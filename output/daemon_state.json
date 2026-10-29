@@ -1,0 +1,226 @@
+{
+  "last_formula": "2",
+  "produced": [
+    {
+      "video": "video_4_1792422229.mp4",
+      "formula": "4",
+      "duration_min": 59,
+      "video_id": "J_pR-xsra5I",
+      "publish_at": "2026-10-20T01:00:00Z",
+      "created": "2026-10-19T22:49:59.056119"
+    },
+    {
+      "video": "video_3_1792430107.mp4",
+      "formula": "3",
+      "duration_min": 51,
+      "video_id": "OgwIohRv2XE",
+      "publish_at": "2026-10-20T01:00:00Z",
+      "created": "2026-10-20T00:52:18.193110"
+    },
+    {
+      "video": "video_5_1792435760.mp4",
+      "formula": "5",
+      "duration_min": 53,
+      "video_id": "lENqVzXPbE8",
+      "publish_at": "2026-10-20T01:00:00Z",
+      "created": "2026-10-20T02:25:44.287113"
+    },
+    {
+      "video": "video_2_1792442509.mp4",
+      "formula": "2",
+      "duration_min": 32,
+      "video_id": "OVqjConaRkM",
+      "publish_at": "2026-10-20T01:00:00Z",
+      "created": "2026-10-20T04:05:09.822402"
+    },
+    {
+      "video": "master_livestream_loop.mp4",
+      "title": "24/7 Lofi Live Stream",
+      "formula": "1",
+      "duration_min": 0,
+      "video_id": "72us4y3tYxM",
+      "publish_at": "2026-10-21T01:00:00Z",
+      "created": "2026-10-21T00:25:27.162304"
+    },
+    {
+      "video": "video_6_1792522026.mp4",
+      "title": "Beat Procrastination & Deep Focus 📚 [25/5 Pomodoro] Cozy Lofi ☕",
+      "formula": "6",
+      "duration_min": 47,
+      "video_id": "aGnR0XlyxlQ",
+      "publish_at": "2026-10-21T01:00:00Z",
+      "created": "2026-10-21T02:28:12.031488"
+    },
+    {
+      "video": "video_3_1792527677.mp4",
+      "title": "Fall Asleep in 10 Minutes 🌙 Cozy Midnight Room [432Hz / Deep Sleep]",
+      "formula": "3",
+      "duration_min": 33,
+      "video_id": "Rvfhe8jbGjk",
+      "publish_at": "2026-10-21T01:00:00Z",
+      "created": "2026-10-21T03:54:24.464111"
+    },
+    {
+      "video": "video_1_1792602862.mp4",
+      "title": "Fall Asleep in 10 Minutes 🌧️ Cozy Warm Piano & Soft Rain [432Hz / Deep Sleep]",
+      "formula": "1",
+      "duration_min": 44,
+      "video_id": "WluCL8vU-lw",
+      "publish_at": "2026-10-22T01:00:00Z",
+      "created": "2026-10-22T00:57:35.696676"
+    },
+    {
+      "video": "video_2_1792609741.mp4",
+      "title": "Cozy Morning Coffee & Deep Focus ☕ Sunny Bossa Nova [Calm Energy BGM]",
+      "formula": "2",
+      "duration_min": 50,
+      "video_id": "5YHc9sNgMbw",
+      "publish_at": "2026-10-22T01:00:00Z",
+      "created": "2026-10-22T03:02:57.580303"
+    },
+    {
+      "video": "video_5_1792725643.mp4",
+      "title": "Wash Away Stress & Anxiety 🌿 Peaceful Guitar by Forest Stream [432Hz Healing]",
+      "formula": "5",
+      "duration_min": 35,
+      "video_id": "h7YjMiwsZ2w",
+      "publish_at": "2026-10-23T07:00:00Z",
+      "created": "2026-10-23T10:54:14.679293"
+    },
+    {
+      "video": "video_3_1792731857.mp4",
+      "title": "Late Night Focus & Calm Sleep 🌙 Cozy Midnight Room [Slowed + Reverb]",
+      "formula": "3",
+      "duration_min": 51,
+      "video_id": "Lpey6FBeZuw",
+      "publish_at": "2026-10-23T07:00:00Z",
+      "created": "2026-10-23T12:49:25.282545"
+    },
+    {
+      "video": "video_4_1792738489.mp4",
+      "title": "Late Night Reading & Deep Focus 🕯️ Victorian Library [432Hz] 📚",
+      "formula": "4",
+      "duration_min": 43,
+      "video_id": "oTe8kseBnk0",
+      "publish_at": "2026-10-23T14:00:00Z",
+      "created": "2026-10-23T15:18:05.199690"
+    },
+    {
+      "video": "video_2_1792779403.mp4",
+      "title": "Fall Asleep or Study in Peace ☕ Sunny Morning Bossa Nova & Coffee Cafe [432Hz / Deep Focus]",
+      "formula": "2",
+      "duration_min": 39,
+      "video_id": "SVjSlqsvLM8",
+      "publish_at": "2026-10-24T01:00:00Z",
+      "created": "2026-10-24T01:48:04.518793"
+    },
+    {
+      "video": "video_1_1792785162.mp4",
+      "title": "Beat Stress & Anxiety 🌧️ Warm Acoustic Piano & Soft Rain [432Hz / Deep Sleep]",
+      "formula": "1",
+      "duration_min": 47,
+      "video_id": "ZKilJJEzId0",
+      "publish_at": "2026-10-24T01:00:00Z",
+      "created": "2026-10-24T03:34:03.489592"
+    },
+    {
+      "video": "video_5_1792899973.mp4",
+      "title": "Calm Overthinking & Sleep 🌿 Peaceful Acoustic Guitar & Forest Stream [432Hz]",
+      "formula": "5",
+      "duration_min": 55,
+      "video_id": "btmRcFZOYL4",
+      "publish_at": "2026-10-25T07:00:00Z",
+      "created": "2026-10-25T11:39:11.107220"
+    },
+    {
+      "video": "video_4_1792906449.mp4",
+      "title": "Deep Focus Study Session 🕯️ Rainy Victorian Library [432Hz Alpha Waves]",
+      "formula": "4",
+      "duration_min": 53,
+      "video_id": "9nJT48WPuEY",
+      "publish_at": "2026-10-25T07:00:00Z",
+      "created": "2026-10-25T13:20:57.970612"
+    },
+    {
+      "video": "video_5_1792914332.mp4",
+      "title": "Instant Anxiety Relief 🌿 Cozy Forest Stream & Warm Acoustic Guitar [432Hz]",
+      "formula": "5",
+      "duration_min": 45,
+      "video_id": "tT9NkfIPcww",
+      "publish_at": "2026-10-25T14:00:00Z",
+      "created": "2026-10-25T15:26:03.012960"
+    },
+    {
+      "video": "video_1_1792955347.mp4",
+      "title": "Fall Asleep in 10 Minutes 🌧️ Warm Piano & Gentle Rain [432Hz Sleep] 🌙",
+      "formula": "1",
+      "duration_min": 53,
+      "video_id": "6AhpEsJLIJw",
+      "publish_at": "2026-10-26T01:00:00Z",
+      "created": "2026-10-26T03:13:51.149643"
+    },
+    {
+      "video": "video_3_1792963090.mp4",
+      "title": "Fall Asleep in 10 Minutes 🌙 Cozy Midnight Room & Rain [432Hz / Deep Sleep]",
+      "formula": "3",
+      "duration_min": 39,
+      "video_id": "KoqNepSbDkI",
+      "publish_at": "2026-10-26T01:00:00Z",
+      "created": "2026-10-26T04:44:59.633878"
+    },
+    {
+      "video": "video_4_1792970115.mp4",
+      "title": "Deep Study Flow & Memory 🕯️ Secret Victorian Library [432Hz / Binaural Beats]",
+      "formula": "4",
+      "duration_min": 40,
+      "video_id": "WysA5W-NR7Y",
+      "publish_at": "2026-10-27T07:00:00Z",
+      "created": "2026-10-27T09:13:28.468726"
+    },
+    {
+      "video": "video_1_1793071759.mp4",
+      "title": "Beat Stress & Anxiety 🌧️ Cozy Warm Piano & Gentle Rain [Deep Sleep / 432Hz] 🕯️",
+      "formula": "1",
+      "duration_min": 41,
+      "video_id": "LIDYG2sIZdg",
+      "publish_at": "2026-10-27T07:00:00Z",
+      "created": "2026-10-27T11:05:14.397425"
+    },
+    {
+      "video": "video_6_1793078464.mp4",
+      "title": "Instant Deep Focus 📚 Cozy Pomodoro 25/5 Study Timer & Lofi [Binaural Beats]",
+      "formula": "6",
+      "duration_min": 42,
+      "video_id": "6ocafEqPqmU",
+      "publish_at": "2026-10-27T07:00:00Z",
+      "created": "2026-10-27T12:58:43.193766"
+    },
+    {
+      "video": "video_1_1793138282.mp4",
+      "title": "Fall Asleep in 10 Minutes 🌧️ Warm Piano & Soft Rain [432Hz / Deep Sleep]",
+      "formula": "1",
+      "duration_min": 56,
+      "video_id": "3Lmavgnps1c",
+      "publish_at": "2026-10-28T01:00:00Z",
+      "created": "2026-10-28T05:52:25.314137"
+    },
+    {
+      "video": "video_3_1793159432.mp4",
+      "title": "🌧️🎹 Drift into Deep Sleep with Rainy Piano Melodies [Slowed + Reverb]",
+      "formula": "3",
+      "duration_min": 31,
+      "video_id": "sS9CdYfBJy0",
+      "publish_at": "2026-10-28T07:00:00Z",
+      "created": "2026-10-28T11:44:28.208276"
+    },
+    {
+      "video": "video_2_1793165447.mp4",
+      "title": "Fall Asleep to Warm Autumn Rain 🌧️ Cozy Cafe Piano [Slowed + Reverb]",
+      "formula": "2",
+      "duration_min": 43,
+      "video_id": "s9hVTt3CSUg",
+      "publish_at": "2026-10-28T07:00:00Z",
+      "created": "2026-10-28T13:42:56.301374"
+    }
+  ]
+}

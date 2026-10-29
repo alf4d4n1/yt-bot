@@ -1,0 +1,139 @@
+{
+  "bot_name": "YT-Content-Factory",
+  "version": "1.0.0",
+  "target_market": "US/Global (High CPM)",
+  "paths": {
+    "assets_backgrounds": "assets/backgrounds",
+    "assets_music": "assets/music",
+    "assets_ambience": "assets/ambience",
+    "assets_overlays": "assets/overlays",
+    "output_dir": "output"
+  },
+  "ai_settings": {
+    "router_base_url": "http://localhost:20128/v1",
+    "text_model": "ag/gemini-3.8-flash-high",
+    "image_provider": "pollinations_flux",
+    "image_resolution": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "video_settings": {
+    "default_duration_minutes": 60,
+    "video_resolution": "1920x1080",
+    "fps": 30,
+    "audio_bitrate": "192k",
+    "crossfade_seconds": 4,
+    "tuning_432hz": true,
+    "warm_reverb": true,
+    "generate_shorts": true
+  },
+  "branding": {
+    "channel_name": "Cozy Mood Lounge",
+    "watermark_text": "© Cozy Mood Lounge",
+    "watermark_opacity": 0.3
+  },
+  "formulas": {
+    "1": "Acoustic Warm Piano & Soft Rain",
+    "2": "Sunny Morning Bossa Nova & Coffee Cafe",
+    "3": "Lofi Chillhop & Cozy Midnight Room",
+    "4": "Dark Academia & Victorian Library",
+    "5": "Peaceful Acoustic Guitar & Forest Stream",
+    "6": "Pomodoro 25/5 Study Timer & Lofi Beats"
+  },
+  "daemon": {
+    "enabled": true,
+    "videos_per_day": 3,
+    "duration_minutes_min": 30,
+    "duration_minutes_max": 60,
+    "upload_privacy": "private",
+    "publish_hours_wib": [
+      8,
+      14,
+      21
+    ],
+    "formula_pool": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "delete_after_upload": true,
+    "retry_delay_minutes": 15,
+    "scene_change_minutes": 3,
+    "min_free_ram_gb": 2.0,
+    "thumbnail_enabled": true,
+    "thumbnail_accent": "#F5C518"
+  },
+  "livestream": {
+    "stream_key": "cvx1-ymbv-8kqk-7btz-by87",
+    "ingest_endpoints": [
+      "a",
+      "b"
+    ],
+    "ingest_rotation": true,
+    "max_reconnect_attempts": 5,
+    "reconnect_initial_delay_seconds": 5,
+    "auto_get_active_broadcast": true,
+    "auto_stop_reminder_dismissed": true,
+    "playlist_enabled": true,
+    "playlist_swap_minutes": 60,
+    "telegram_alert_webhook": "",
+    "live_dir": "output/live",
+    "force_gop_seconds": 2.0,
+    "preflight_check_port_1935": true,
+    "active_formula": "1",
+    "titles": [
+      "🌧️ Relaxing Rain Sounds & Soft Piano Music - Sleep, Study, Stress Relief",
+      "🎹 Gentle Piano + Rain Ambience - Deep Sleep Music 24/7",
+      "💤 Rain on Window Glass & Calming Piano - Fall Asleep Fast",
+      "☔ Soft Piano Melodies with Cozy Rain - Sleep & Relaxation Radio",
+      "🌙 Night Rain & Piano Music for Deep Sleep, Stress Relief, Peaceful Nights",
+      "📚 Study With Me - Rain Sounds & Piano Music for Focus & Concentration",
+      "🌧️ 24/7 Rain and Piano Live - Calm Your Mind, Beat Insomnia",
+      "🎵 Relaxing Piano in the Rain - Sleep Music, Healing Music, Meditation"
+    ],
+    "descriptions": {
+      "1": "🌧️ Relaxing rain sounds blended with soft piano music create the perfect ambience for deep sleep, stress relief, and peaceful nighttime comfort. The gentle rainfall calms your mind while the soothing piano melodies help you unwind, focus, and release tension. Ideal for sleeping, studying, working, meditation, or simply enjoying a cozy, quiet evening. Let this calming mix of rain and piano guide you into deep relaxation and emotional peace.\n\n#rainandpiano #pianomusic #rainsounds #relaxingrain #pianorelaxation #sleepmusic #rainambience #studymusic #cozynightvibes #ambientrain #soothingpiano #deeprelaxation\n\n🎧 LIVE 24/7 - join anytime, leave anytime.\n📅 New rain & piano mixes uploaded daily.\n💬 Chat requests welcome — type your preferred tempo or mood in chat.",
+      "2": "☀️ Sunny bossa nova vibes paired with the warmth of a coffee cafe. Wake up gently, focus deeper, smile more. Brazilian-inflected acoustic guitar, soft piano, and acoustic bass at the perfect morning tempo. Brew a coffee, open the windows, let the sunshine in.\n\n#bossanova #coffeemusic #morningvibes #cafelounge #studymusic #relaxingmusic #acousticmorning #sunrise #coffeeshopmusic",
+      "3": "🌙 Late night lofi hip hop radio — chill beats to relax, study, focus to. Cozy midnight room ambience with rain, vinyl crackle, soft keys. Drop the camera off, plug your headphones in, let the loops carry you through to the morning.\n\n#lofi #lofigirl #chillbeats #studymusic #lofiradio #sleepmusic #cozyvibes #nightmusic #relaxingbeats #lofihiphop",
+      "4": "📖 Dark academia & Victorian library ambience — rain on gothic windows, candle flicker, classical strings, far-away thunder. Read longer. Think deeper. Let your mind wander through candlelit halls. Built for slow evenings, hard essays, and one-more-chapter nights.\n\n#darkacademia #victorianlibrary #studymusic #classicalmusic #rainyevening #candlelight #booklover #gothic #rainstorm",
+      "5": "🌲 Acoustic guitar in a misty forest, stream trickling, soft wind in the pines. Genuinely calming nature sounds. Stretch out, breathe, put the phone down. The forest doesn't care what's on your schedule.\n\n#acousticguitar #naturemusic #forestambience #relaxingmusic #meditation #sleepmusic #studywithme #cozynature #peacefulmusic"
+    },
+    "hashtag_pool": [
+      "#lofi",
+      "#chillbeats",
+      "#studymusic",
+      "#sleepmusic",
+      "#relaxingmusic",
+      "#rainandpiano",
+      "#pianomusic",
+      "#rainsounds",
+      "#ambient",
+      "#cozyvibes",
+      "#nightmusic",
+      "#chillvibes",
+      "#focusmusic",
+      "#calmingmusic",
+      "#stressrelief",
+      "#deepsleep",
+      "#meditation",
+      "#peacefulmusic",
+      "#coffeemusic",
+      "#bossanova",
+      "#cafelounge",
+      "#darkacademia",
+      "#victorianlibrary",
+      "#naturemusic"
+    ],
+    "title_rotation_hours": 2,
+    "auto_restart": true,
+    "auto_seo": true,
+    "auto_thumbnail": true,
+    "auto_stop_hours": 0,
+    "last_thumbnail": "D:\\ALL BOTT\\YT-bot-main\\data\\thumbnails\\live_thumb_1793200368.jpg",
+    "last_thumbnail_broadcast": "M7b8b3mJfHw"
+  }
+}

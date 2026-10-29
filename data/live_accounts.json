@@ -1,0 +1,77 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Akun 1",
+      "email": "",
+      "status": "Nongkrong (Chrome)"
+    },
+    {
+      "id": 2,
+      "name": "Akun 2",
+      "email": "",
+      "status": "Nongkrong (Chrome)"
+    },
+    {
+      "id": 3,
+      "name": "Akun 3",
+      "email": "",
+      "status": "Nongkrong (Chrome)"
+    },
+    {
+      "id": 4,
+      "name": "Akun 4",
+      "email": "",
+      "status": "Nongkrong"
+    },
+    {
+      "id": 5,
+      "name": "Akun 5",
+      "email": "",
+      "status": "Nongkrong"
+    }
+  ],
+  "custom_chats": [
+    "this is so good omg",
+    "been here for an hour and im not leaving lol",
+    "yo this stream is fire",
+    "anyone else watching this at 3am? just me? ok",
+    "this is my go-to background stream now fr",
+    "the vibes are immaculate rn",
+    "literally the best thing on youtube rn",
+    "ok i wasnt gonna stay but now i cant leave",
+    "this hits different at night",
+    "came for the music stayed for the atmosphere",
+    "perfect for my study session tonight",
+    "finals week + this stream = survival mode",
+    "writing my thesis with this on, absolute lifesaver",
+    "coding at 2am and this keeps me sane",
+    "this stream got me through my deadline last week too",
+    "productivity just went up 200% thanks to this",
+    "whoever runs this channel deserves the world",
+    "found this randomly and now im hooked",
+    "subscribed, this is exactly what i needed",
+    "why is this so underrated honestly",
+    "the audio quality is really good btw",
+    "love how consistent this stream is, always here when i need it",
+    "so peaceful",
+    "love this sm",
+    "chills fr",
+    "needed this today",
+    "this >> everything else rn",
+    "absolute vibe",
+    "watching from seattle, rainy night + this = perfect",
+    "late night in chicago, this is the move",
+    "good morning from the east coast, starting my day with this",
+    "texas checking in, yall have a good night",
+    "midnight in cali and this is everything",
+    "back again lol cant stay away",
+    "third day in a row watching this, no regrets",
+    "i swear this stream is addictive",
+    "came back just to say this is still fire",
+    "my favorite stream on youtube no cap"
+  ],
+  "chat_interval_minutes_min": 3,
+  "chat_interval_minutes_max": 8,
+  "auto_stay": true
+}
